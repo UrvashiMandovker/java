@@ -53,7 +53,7 @@ import javax.servlet.*;
 import java.io.*;
 /**
  *
- * @author Raghav Sood
+ * @author Urvashi Mandovker
  */
 public class Filterpage implements Filter  {
 
@@ -98,7 +98,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Raghav Sood
+ * @author Urvashi Mandovker
  */
 public class MainPage extends HttpServlet {
 
