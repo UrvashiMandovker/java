@@ -7,7 +7,7 @@ package jdbcconnect;
 import java.sql.*;
 /**
  *
- * @author Raghav Sood
+ * @author Urvashi Mandovker
  */
 public class Jdbcconnect {
 
