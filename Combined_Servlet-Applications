@@ -140,7 +140,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Raghav Sood
+ * @author Urvashi Mandovker
  */
 public class verifyfilter implements Filter {
     String name,pass;
