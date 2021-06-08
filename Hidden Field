@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Raghav Sood
+ 
  */
 public class formS extends HttpServlet {
     String name,pass;
