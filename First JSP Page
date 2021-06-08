@@ -23,7 +23,7 @@ and open the template in the editor.
 <%-- 
     Document   : newjsp
     Created on : 22 May, 2021, 10:38:46 PM
-    Author     : Raghav Sood
+    Author     : Urvashi Mandovker
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
