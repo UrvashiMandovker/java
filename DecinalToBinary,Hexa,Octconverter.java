@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Raghav Sood
+ * @author Urvashi Mandovker
  */
 public class converter extends javax.swing.JFrame {
 
